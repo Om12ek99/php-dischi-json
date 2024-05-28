@@ -1,0 +1,56 @@
+/*  commons */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 100%;
+}
+body{
+    background-color: #1D2D3C;
+}
+
+/* header  */
+.header-nav span{
+    padding: 10px 0;
+}
+
+.header-nav span:hover{
+        /* border-bottom: 1px solid #ffffff; */
+}
+
+header{
+    height: 50px;
+    background-color: #001534;
+}
+header img{
+    width: 50px;
+}
+
+/* main */
+
+
+.hearts{
+    position: absolute;
+    top: 5%;
+    right: 10%;
+    font-size: 30px;
+    color: red;
+    text-shadow:5px 1px 5px black;
+}
+
+a{
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+
+
+.card{
+    background-color: #001534;
+    color: #ffffff;
+}
+
+
